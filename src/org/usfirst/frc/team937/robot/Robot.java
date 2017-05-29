@@ -1,4 +1,4 @@
-/*NIGGERR Bot
+/*
  * Do not harm humans
  * Follow commands by humans
  * Protect self
